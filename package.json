@@ -61,7 +61,7 @@
     "ckeditor5": ">=43.2.0 || ^0.0.0-nightly"
   },
   "resolutions": {
-    "babel-traverse": ">=7.23.2"
+    "babel-traverse": "latest"
   },
   "scripts": {
     "build:dist": "node ./scripts/build-dist.mjs",
